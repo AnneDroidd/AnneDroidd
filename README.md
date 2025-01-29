@@ -14,6 +14,9 @@
 ### Currently building stuff with -
 
 ### My latest blog posts -
+
+`Auguest 12, 2023` [Preparing for GCP Associate Cloud Engineer (ACE) Certification](https://medium.com/@shubhasmitaroy/preparing-for-gcp-associate-cloud-engineer-ace-certification-4af23a742b49)
+
 `June 23, 2021` [Agglomerative Hierarchical Clustering — a gentle intro with an example program](https://shubhasmitaroy.medium.com/agglomerative-hierarchical-clustering-a-gentle-intro-with-an-example-program-4b7afe35fd4b)
 
 `May 13, 2021` [Reconstructing a li’l girl’s portrait using Principal Component Analysis (Part 1)](https://shubhasmitaroy.medium.com/reconstructing-a-lil-girl-s-portrait-using-principal-component-analysis-part-1-60d2baac85de)
