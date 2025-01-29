@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Shubhasmita
 - 👀 I’m interested in the wild west of Artificial Intelligence
 - 🌱 I’m currently learning Python
-- 📚 I'm a college student, pursuing Electronics and Communication Engg, with a specialization in AI
-- ☘️ Tid Bit : I've developed plant-o-mania over lockdown... I hope to channelise this into developing a watering system for when I am out of station in summer, well next one, hopefully (PANDEMIC mode still on 😷)
-- 💭 Another random bit : My username has nothing to do with the Operating System . It is supposed to mean 'android' as in a 'bot'.  
-(PS. I haven't worked on anything remotely Android in the 2 decades of my existance. Uncanny and ironic? 🤷)
+- 📚 I am pursuing Masters in Artificial Intelligence from FAU Erlangen-Nürnberg, Germany.
 - 📫 How to reach me ...  
 
 ### You can hit me up here -
