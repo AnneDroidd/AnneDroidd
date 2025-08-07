@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhasmita
 - 👀 I’m interested in the wild west of Artificial Intelligence
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently exploring Reinforcement Learning
 - 📚 I am pursuing Masters in Artificial Intelligence from FAU Erlangen-Nürnberg, Germany.
 - 📫 How to reach me ...  
 
