@@ -53,9 +53,9 @@ Mini-project inspired by [Decoding Foundation Models – Enhancing Understanding
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shubhasmita-roy/)  
-- 📝 [Blog/Portfolio](your-blog-or-portfolio-link)  
-- 📧 Email: shubhasmita.roy@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shubhasmita-roy-858209191/)  
+- 📝 [Blog](https://medium.com/@shubhasmitaroy)  
+- 📧 Email: shubhasmitar@gmail.com  
 
 ---
 
