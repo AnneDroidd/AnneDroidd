@@ -3,6 +3,7 @@
 🎓 Master's Student in Artificial Intelligence @ FAU Erlangen–Nürnberg, Germany  
 🤖 Passionate about **Reinforcement Learning, Explainable AI, and Applied Machine Learning**  
 💡 Exploring the wild west of AI — from interpretability to intelligent agents  
+🧠 Currently learning - Time series data analysis. Made a project "Visitronix" to forecast visitors using Facebook's Prophet.
 
 ---
 
